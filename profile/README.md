@@ -21,3 +21,7 @@ Email: support@mc-fdc.com
 Twitter: https://twitter.com/mc_fdc
 
 Owner: https://github.com/tuna2134
+
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mc-fdc-dev)](https://github.com/anuraghazra/github-readme-stats)
