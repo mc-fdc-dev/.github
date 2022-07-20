@@ -6,9 +6,11 @@
 
 🌈 Contribution guidelines - ライセンスおよび書き方に問題なければ自由に参加できます。
 
-👩‍💻 Useful resources - pass
-
 🍿 Fun facts - 基本みんな、変態です。()
+
+## About icon
+
+アイコンは真木圭吾氏が書いている「可愛いだけじゃない式守さん」より取ってきました。
 
 ## Contact
 
