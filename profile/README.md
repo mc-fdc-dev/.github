@@ -24,4 +24,4 @@ Owner: https://github.com/tuna2134
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mc-fdc-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?orgs=mc-fdc-dev)](https://github.com/anuraghazra/github-readme-stats)
